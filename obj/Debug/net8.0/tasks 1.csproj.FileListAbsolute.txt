@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\cours\tasks 1\bin\Debug\net8.0\tasks 1.exe
+C:\Users\DELL\Desktop\cours\tasks 1\bin\Debug\net8.0\tasks 1.deps.json
+C:\Users\DELL\Desktop\cours\tasks 1\bin\Debug\net8.0\tasks 1.runtimeconfig.json
+C:\Users\DELL\Desktop\cours\tasks 1\bin\Debug\net8.0\tasks 1.dll
+C:\Users\DELL\Desktop\cours\tasks 1\bin\Debug\net8.0\tasks 1.pdb
+C:\Users\DELL\Desktop\cours\tasks 1\obj\Debug\net8.0\tasks 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\cours\tasks 1\obj\Debug\net8.0\tasks 1.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\cours\tasks 1\obj\Debug\net8.0\tasks 1.AssemblyInfo.cs
+C:\Users\DELL\Desktop\cours\tasks 1\obj\Debug\net8.0\tasks 1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\cours\tasks 1\obj\Debug\net8.0\tasks 1.dll
+C:\Users\DELL\Desktop\cours\tasks 1\obj\Debug\net8.0\refint\tasks 1.dll
+C:\Users\DELL\Desktop\cours\tasks 1\obj\Debug\net8.0\tasks 1.pdb
+C:\Users\DELL\Desktop\cours\tasks 1\obj\Debug\net8.0\tasks 1.genruntimeconfig.cache
+C:\Users\DELL\Desktop\cours\tasks 1\obj\Debug\net8.0\ref\tasks 1.dll
